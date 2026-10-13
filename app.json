@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "MiniDesk Store",
+    "slug": "minidesk-store",
+    "scheme": "minidesk-store",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "predictiveBackGestureEnabled": false
+    },
+    "plugins": [
+      "expo-router",
+      "expo-status-bar"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
