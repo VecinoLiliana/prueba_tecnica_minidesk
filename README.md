@@ -121,6 +121,9 @@ Con más tiempo añadiría persistencia local opcional del carrito, cache persis
 
 El video del mockup muestra la navegación y las principales funcionalidades de la aplicación móvil de una tienda de ropa, incluyendo las acciones disponibles para el usuario.
 
+https://github.com/user-attachments/assets/335a2e48-b04e-4ab3-bcc9-d23e507d518c
+
+
 ## Verificación
 
 ```bash
